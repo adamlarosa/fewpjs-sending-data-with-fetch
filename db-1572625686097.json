@@ -84,58 +84,6 @@
       "dogName": "Byron",
       "dogBreed": "Poodle",
       "id": 24
-    },
-    {
-      "dogName": "Sammy",
-      "dogBreed": "MixPoodle",
-      "submit": "Submit",
-      "id": 25
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 26
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 27
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 28
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 29
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 30
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 31
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 32
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 33
-    },
-    {
-      "dogName": "Sammy",
-      "dogBreed": "MixPoodle",
-      "submit": "Submit",
-      "id": 34
     }
   ],
   "cats": [
@@ -150,50 +98,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "id": 12
-    },
-    {
-      "id": 13
-    },
-    {
-      "id": 14
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
